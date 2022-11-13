@@ -1,0 +1,37 @@
+
+  .latest-news{
+    margin-left: 140px;
+    margin-top: 20px;
+    font-size: 28px;
+    padding: 0px 10px;
+    width: auto;
+    background-color: #e3e3e3;
+  }
+
+  .bid-body{
+    margin-left: 120px;
+    margin-top: 20px;
+    font-size: 20px;
+    padding: 0px 10px;
+    width: auto;
+    background-color: #041170;
+  }
+
+  .bid-form{
+    margin-left: 100px;
+    margin-top: 20px;
+    font-size: 20px;
+    padding: 15px;
+    width: auto;
+    background-color: #19257d;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    display: inline;
+  }
